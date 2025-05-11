@@ -6,6 +6,12 @@ In this project my aim was to have a greater understanding of building a data pi
 
 - [Business Requirements](#Business-Requirements)
 - [Project Overview](#Project-overview)
+- [Technology Used](#Technology-Used)
+- [Azure Environment Setup](#Azure-Environment-Setup)
+- [Data Ingestion](#Data-Ingestion)
+- [Data Transformation](#Data-Transformation)
+- [Data Loading and Reporting](#Data-Loading-and-Reporting)
+- [Security and Governance](#Security-and-Governance)
 
 ## Business Requirements
 
@@ -101,7 +107,7 @@ Moving to Data Factory, an activity was created inside the pipeline for the data
   <img src="images/Screenshot 2025-05-11 060418.png" alt="notebook in DF" width="750">
 </p>
 
-## Data Loading And Reporting
+## Data Loading and Reporting
 
 Azure Synapse was opened and a SQL pool was created to put the tables in the gold folder into views and further analyzed. To quicken the process in this instance I created a pipeline to automatically create views for each table.
 
