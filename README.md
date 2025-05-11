@@ -116,3 +116,8 @@ Finally all tables were uploaded to PowerBi to see a visual representation of th
 <p align="center">
   <img src="images/dashboard.pdf" alt="dashboard" width="750">
 </p>
+
+
+## Security and Governance
+
+Throughout the project I had been using key vault to hold any sensitive information including tokens that were generated through databricks. Key vault was applied throughout the pipeline in Data Factory when linking services to ensure all data was secure. I also used role-based access control (RBAC) using Azure Entra ID the emulate a life based scenario.
