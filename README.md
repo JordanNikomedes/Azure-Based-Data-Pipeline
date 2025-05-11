@@ -2,6 +2,11 @@
 
 In this project my aim was to have a greater understanding of building a data pipeline from scratch given some requirements from fake stakeholders to expand my knowledge ready for any real world scenario. Building this pipeline I managed to have a lot more hands on experience with Azure and the intricate details for connecting every service from an on premise server all the way to building dashboards through powerbi. My biggest learning curve was the code put into it, developing the ETL and making sure everything ran smoothly. I think my biggest challenge in this project was using Azure services I had not learnt before, locating what I needed and exploring its full capabilities.
 
+## Table of Contents
+
+- [Business Requirements](#Business-Requirements)
+- [Project Overview](#Project-overview)
+
 ## Business Requirements
 
 The business has identified a gap in customer demographic, specifically in gender distribution and how it influences product sales. The key requirements include:
